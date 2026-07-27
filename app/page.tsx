@@ -81,7 +81,7 @@ export default function Home() {
     <main className="star-bg relative flex-1 flex flex-col items-center px-4 py-8 gap-8">
       <header className="relative z-10 text-center">
         <h1 className="font-display text-2xl gold-text tracking-[0.2em]">
-          タロットの導き
+          タロット占い 徳永の導き
         </h1>
         <p className="text-xs text-white/50 mt-2 tracking-widest">
           過去 ・ 現在 ・ 未来
