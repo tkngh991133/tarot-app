@@ -21,7 +21,7 @@ const zenKaku = Zen_Kaku_Gothic_New({
 });
 
 export const metadata: Metadata = {
-  title: "タロットの導き",
+  title: "タロット占い 徳永の導き",
   description: "大アルカナ3枚引きで、過去・現在・未来を読み解く一人占いアプリ",
 };
 
